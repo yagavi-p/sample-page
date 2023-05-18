@@ -1,0 +1,183 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: 'Poppins', sans-serif;
+}
+.container{
+	display: flex;
+	text-decoration: none;
+	justify-content: space-between;
+	background-color: #dda0dd;
+	padding: 100px;
+	width: 100%;
+	height: 300px;
+}
+.container{
+	background-color: rgb(222,196,230);
+	display: flex;
+	justify-content: space-between;
+	padding: 100px;
+}
+.text{
+	float: right;
+	padding: 30px; 
+	align-content: left;
+}
+
+.social-links{
+	padding: 20px;
+}
+
+.image img{
+	width:500px;
+	height: 300px;
+	border: 2px solid black;
+	margin-top: 0px;
+	margin-left: 50px;
+	float: left;
+	margin-top: 20px;
+	margin-bottom: 50px;
+}
+.title{
+	padding: 30px;
+}
+.con1
+{
+	display: flex;
+}
+.container2 {
+	background-color: rgb(220,239,220);
+}
+
+.title p{
+	margin-left: 20px;
+}
+.title h1{
+	margin-left: 20px;
+}
+.button{
+	margin: 10px;
+}
+
+
+
+
+.form-inline{
+	padding: 30px;
+	flex-flow: row wrap;
+	align-items: center;
+}
+#ym{
+	width: 615px;
+	height: 200px;
+	padding: 10px;
+	padding-top: 0;
+	align-items: top;
+}
+.form-inline input{
+	vertical-align: middle;
+	margin: 5px 10px 5px 0;
+	padding: 10px;
+	width: 300px;
+	
+}
+.form-inline button{
+	padding: 10px 20px;
+	background-color: rgb(155, 66, 166);
+	cursor: pointer;
+	color: white;
+	border: 1px;
+	width: 615px;
+}
+.form-inline button:hover{
+	background-color: rgb(229, 150, 238);
+}
+.cs{
+	margin-left: 30px;
+}
+.contact-info{
+	position: absolute;
+	right: 200px;
+	top: 200px;
+	margin-top: 900px;
+	
+}
+hr { 
+  display: block;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  margin-left: auto;
+  margin-right: auto;
+  border-style: inset;
+  border-width: 1px;
+} 
+
+.icon-text1{
+	display: flex;
+}
+.icon-text2{
+	display: flex;
+}
+.final{
+	padding: 10px;
+}
+ #ic1{
+float: right;
+
+}
+#ic2{
+	float: right;
+	margin-left: 8px;
+}
+#ic3{
+	float: right;
+	margin-left: 8px;
+}
+#ic4{
+	float: right;
+	margin-left: 8px;
+}
+
+.final{
+	display: flex;
+	float: right;
+
+}
+.final-icons{
+	margin-left: 1000px;
+	margin-right: 40px;
+	display: flex;
+}
+
+#gd{
+	height: 50px;
+	padding: 15px 15px 5px 15px ;
+    border-radius: 30px;
+	
+}
+ .btn{
+      
+margin-top: 30px;
+margin-right: 150px;
+     }
+
+#gd:hover{
+	background-color: rgb(244,154,194);
+}
+
+.admin{
+	display: flex;
+	padding: 15px;
+	
+}
+span{
+	margin-left: 25px;
+	margin-right: 25px;
+}
+
+.final h5{
+	margin-right: 380px;
+}
